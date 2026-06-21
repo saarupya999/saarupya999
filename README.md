@@ -18,13 +18,13 @@ I am a graduate student passionate about data analytics, data visualization, and
 
 ## Projects
 
-### FIFA World Cup Data Visualization
-*   **Description:** A comprehensive data visualization project analyzing historical FIFA World Cup match data. 
-*   **Key Deliverables:** Created dynamic charts and reports to explore scoring trends, attendance patterns, and historical team performance.
+### LLM-Generated Test Cases
+*   **Description:** An exploration into leveraging Large Language Models (LLMs) for automated software engineering workflows.
+*   **Key Deliverables:** Developed and evaluated prompts and frameworks to programmatically generate robust QA and unit test cases, streamlining the testing lifecycle.
 
-### Advanced Database Systems Project
-*   **Description:** Focused on robust back-end data architecture and optimization.
-*   **Key Deliverables:** Engineered complex SQL queries, optimized stored procedures, and applied core database design concepts to manage and analyze dataset environments efficiently.
+### Sprint Repository
+*   **Description:** A project dedicated to Agile methodologies, milestone tracking, and collaborative software development structures.
+*   **Key Deliverables:** Managed sprint backlogs, task allocations, and version control workflows to mimic production-level engineering team environments.
 
 ---
 
